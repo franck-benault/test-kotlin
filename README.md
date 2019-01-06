@@ -14,3 +14,6 @@ The goal of Kotlin is to be an alternative of Java
 two main target platforms
 * server side
 * Android
+
+# Links
+https://play.kotlinlang.org/
