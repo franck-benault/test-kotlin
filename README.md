@@ -16,4 +16,5 @@ two main target platforms
 * Android
 
 # Links
-https://play.kotlinlang.org/
+* https://play.kotlinlang.org/
+* https://play.kotlinlang.org/koans/overview
