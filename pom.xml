@@ -26,5 +26,6 @@
 		</plugins>
 	</build>
 	<modules>
-	</modules>
+	<module></module>
+</modules>
 </project>
