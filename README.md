@@ -15,6 +15,11 @@ two main target platforms
 * server side
 * Android
 
+## Kotlin primary traits
+
+### Statically typed
+The type of a variable is known at compile time.
+
 # Links
 * https://play.kotlinlang.org/ 
 * https://play.kotlinlang.org/koans/overview (exercises)
