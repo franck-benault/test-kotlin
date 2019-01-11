@@ -20,6 +20,10 @@ two main target platforms
 ### Statically typed
 The type of a variable is known at compile time.
 
+### Functional and object oriented
+First-class functions
+Immutability
+
 # Links
 * https://play.kotlinlang.org/ 
 * https://play.kotlinlang.org/koans/overview (exercises)
