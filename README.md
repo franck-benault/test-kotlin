@@ -24,6 +24,10 @@ The type of a variable is known at compile time.
 First-class functions
 Immutability
 
+## succint code
+
+no more semi column needed anymore (except enum)
+
 # Links
 * https://play.kotlinlang.org/ 
 * https://play.kotlinlang.org/koans/overview (exercises)
