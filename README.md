@@ -24,6 +24,12 @@ The type of a variable is known at compile time.
 First-class functions
 Immutability
 
+## Concise syntaxe and succint code
+### No semi-column
+no more semi column needed anymore (except enum)
+### No checked exception
+In Kotlin there is no differences between checked and unchecked exceptions.
+
 # Links
 * https://play.kotlinlang.org/ 
 * https://play.kotlinlang.org/koans/overview (exercises)
