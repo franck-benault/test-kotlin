@@ -26,6 +26,7 @@
 		</plugins>
 	</build>
 	<modules>
-	<module></module>
-</modules>
+	<module>001-HelloWorld</module>
+	<module>002-coroutine</module>
+	</modules>
 </project>
