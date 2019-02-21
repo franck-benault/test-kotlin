@@ -2,10 +2,10 @@
 
 this is a simple introduction of kotlin for java backend developers...
 
-Kotlin works fine with all java libraries
+Kotlin works fine with all java libraries.
 
 ## Goal of Kotlin
-The goal of Kotlin is to be an alternative of Java 
+The goal of Kotlin is to be an alternative of Java, "pragmatic new language" 
 * more concise
 * more productive
 * safer
@@ -29,6 +29,11 @@ Immutability
 no more semi column needed anymore (except enum)
 ### No checked exception
 In Kotlin there is no differences between checked and unchecked exceptions.
+
+## Coroutines
+coroutine starting
+* async { ... } return something
+* launch { ... } fire and forget
 
 # Links
 * https://play.kotlinlang.org/ 
