@@ -58,6 +58,14 @@ coroutine starting
 * async { ... } return something
 * launch { ... } fire and forget
 
-# Links
+# Resources 
+## Form Jetbrain
 * https://play.kotlinlang.org/ 
 * https://play.kotlinlang.org/koans/overview (exercises)
+
+## MOOC
+Jetbrain (Udacity free)
+* Kotlin for Java developers
+https://www.class-central.com/course/coursera-kotlin-for-java-developers-12184
+* Kotlin for Android developper
+https://www.class-central.com/course/udacity-kotlin-for-android-developers-9699
