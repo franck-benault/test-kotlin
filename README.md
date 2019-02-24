@@ -25,6 +25,14 @@ The goal of Kotlin is to be an alternative of Java, "pragmatic new language"
 | 06/2017	| 43e | (Google official support for Kotlin) |
 | 05/2017	| 80e |                                      |
 
+*Github*
+
+https://www.benfrederickson.com/ranking-programming-languages-by-github-users/
+
+Kotlin =15e 	1,28%
+
+Kotlin is among 'language to learn' in 2018.
+
 ## Target platform
 two main target platforms
 * server side
