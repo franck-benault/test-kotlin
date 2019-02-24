@@ -10,6 +10,21 @@ The goal of Kotlin is to be an alternative of Java, "pragmatic new language"
 * more productive
 * safer
 
+## statistic about Kotlin
+
+*Tiobe index Kotlin*
+
+|         |     |                                      |
+| ------- | --- | ------------------------------------ | 
+| 02/2019	| 38e | 0,225%                               |
+| 08/2018	| 43e |                                      |
+| 07/2018	| 48e |                                      |
+| 06/2018	| 49e |                                      |
+| 05/2018	| 49e |                                      |
+| 04/2018	| 49e |                                      |
+| 06/2017	| 43e | (Google official support for Kotlin) |
+| 05/2017	| 80e |                                      |
+
 ## Target platform
 two main target platforms
 * server side
