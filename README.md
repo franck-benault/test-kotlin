@@ -69,3 +69,6 @@ Jetbrain (Udacity free)
 https://www.class-central.com/course/coursera-kotlin-for-java-developers-12184
 * Kotlin for Android developper
 https://www.class-central.com/course/udacity-kotlin-for-android-developers-9699
+
+### Coursera
+https://www.coursera.org/learn/kotlin-for-java-developers
