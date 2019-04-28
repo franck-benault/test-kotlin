@@ -10,7 +10,7 @@ The goal of Kotlin is to be an alternative of Java, "pragmatic new language"
 * more productive
 * safer
 
-## statistic about Kotlin
+## Statistic about Kotlin
 
 *Tiobe index Kotlin*
 
